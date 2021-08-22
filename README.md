@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RedstoneNotPlaced
+- 👋 Hi, I’m RedstoneNotPlace
 - 👀 I’m interested in Java
 - 🌱 I’m currently still learning about Java 
 
