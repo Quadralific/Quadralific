@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RedstoneNotPlace
-- 👀 I’m interested in Java
+- 👀 I’m interested in Spigot Plugins
 - 🌱 I’m currently still learning about Java 
 
 <!---
