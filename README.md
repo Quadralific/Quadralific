@@ -1,7 +1,11 @@
-Hi Im RedstoneNotPlace!!! I learning Java and love to learn new things. Im interested in Spigot Plugins
-- 👋 Hi, I’m RedstoneNotPlace
-- 👀 I’m interested in Spigot Plugins
-- 🌱 I’m currently still learning about Java 
+## 👋Hi there!, Im RedstoneNotPlaced
+- I'm currently learning Java
+- I'm very interested to Spigot plugins
+- Fun fact: Im still not good at coding XD
+
+[![RedstoneNotPlaced's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedstoneNotPlaced&show_icons=true&theme=radical)](https://github.com/RedstoneNotPlaced/github-readme-stats)
+
+Note: This stats maybe wrong cause i don't know how to use it properly
 
 <!---
 RedstoneNotPlaced/RedstoneNotPlaced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
