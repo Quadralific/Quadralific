@@ -3,7 +3,7 @@
 - I'm very interested to Spigot plugins
 - Fun fact: Im still not good at coding XD
 
-[![RedstoneNotPlaced's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedstoneNotPlaced&show_icons=true&theme=radical)](https://github.com/RedstoneNotPlaced/github-readme-stats)
+[![RedstoneNotPlaced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedstoneNotPlaced&show_icons=true&theme=radical)](https://github.com/RedstoneNotPlaced/github-readme-stats)
 
 Note: This stats maybe wrong cause i don't know how to use it properly
 
