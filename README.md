@@ -1,5 +1,5 @@
 ## 👋Hi there!, Im RedstoneNotPlaced
-- I'm currently learning [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/en/)
+- I'm currently learning Java and C#
 - I'm very interested to Spigot plugins
 - Fun fact: Im still not good at coding XD
 
