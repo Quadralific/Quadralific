@@ -1,6 +1,7 @@
 ## 👋Hi there!, Im RedstoneNotPlaced
 - I'm currently learning Java
 - I'm very interested to Spigot and Paper plugins
+- TODO: Revamp EvenHarderMobs
 - Fun fact: Im still not good at coding 
 
 [![RedstoneNotPlaced's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedstoneNotPlaced&theme=radical)](https://github.com/RedstoneNotPlaced?tab=repositories)
