@@ -1,5 +1,5 @@
 ## 👋Hi there!, Im Alpha
-- I'm currently learning Java and C++
+- I'm currently learning JavaFX and C++
 - I'm very interested to Spigot and Paper plugins
 - Fun fact: Im still not good at coding 
 
