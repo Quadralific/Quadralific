@@ -1,4 +1,4 @@
-## 👋Hi there!, Im Alpha
+## 👋Hi there!, Im QuadraBoy
 - I'm currently learning JavaFX and C++
 - I'm very interested to Spigot and Paper plugins
 - Fun fact: Im still not good at coding 
