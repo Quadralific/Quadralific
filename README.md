@@ -1,7 +1,6 @@
 ## 👋Hi there!, Im QuadraBoy
 - I'm currently learning JavaFX and C++
-- I'm very interested to Spigot and Paper plugins
-- Fun fact: Im still not good at coding 
+- I'm very interested to Spigot/Paper plugins and Embedded programming
 
 [![RedstoneNotPlaced's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadraBoy&theme=radical)](https://github.com/QuadraBoy?tab=repositories)
 
