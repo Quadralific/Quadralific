@@ -1,8 +1,8 @@
-## 👋Hi there!, Im QuadraBoy
-- I'm currently learning JavaFX and C++
-- I'm very interested to Spigot/Paper plugins and Embedded programming
+## 👋Hi there!, Im Arik Mendoza!!!
+- I'm currently learning Rust and C++
+- I'm very interested to game development and embedded programming
 
-[![RedstoneNotPlaced's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadraBoy&theme=radical)](https://github.com/QuadraBoy?tab=repositories)
+[![Arik Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadraBoy&theme=radical)](https://github.com/QuadraBoy?tab=repositories)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadraBoy&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
 
