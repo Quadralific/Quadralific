@@ -2,7 +2,7 @@
 - I'm currently learning Rust and C++
 - I'm very interested to game development and embedded programming
 
-[![Arik Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arik Mendoza&theme=radical)](https://github.com/ArikMendoza?tab=repositories)
+[![Arik Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArikMendoza&theme=radical)](https://github.com/ArikMendoza?tab=repositories)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArikMendoza&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
 
