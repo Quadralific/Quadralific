@@ -1,6 +1,6 @@
-## 👋Hi there!, Im Arik Mendoza!!!
+## 👋Hi there!, Im Arik Mendoza aka QuadraBoy!!!
 - I'm currently learning Rust and C++
-- I'm very interested to game development and embedded programming
+- I'm very interested in game development and embedded programming
 
 [![Arik Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArikMendoza&theme=radical)](https://github.com/ArikMendoza?tab=repositories)
 
