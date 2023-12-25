@@ -1,5 +1,5 @@
 # Hello There!!! 👋
-I'm QuadraBoy, a 15-year-old Filipino programmer who loves to program games and discover new things.
+I'm QuadraBoy, a 15-year-old Filipino programmer who loves to program games and discover the unknown. 
 
 ---
 
