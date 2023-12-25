@@ -1,14 +1,32 @@
-## 👋Hi there!, I'm QuadraBoy!!!
-- I'm currently learning Rust and C++
-- I'm very interested in game development.
+# Hello There!!! 👋
+I'm QuadraBoy, a 15-year-old Filipino programmer who loves to program games and discover new things.
+
+---
+
+### 🧰 Languages I Use
+
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<br />
+<br />
+
+### 🔧 Tools I Use
+
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+
+<br />
+
+---
+
+# 📊 Statistics
 
 [![QuadraBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadraBoy&theme=radical)](https://github.com/QuadraBoy?tab=repositories)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadraBoy&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
-
-
-[![Secret Rick Roll](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/fcZXfoB2f70)
-<!---
-RedstoneNotPlaced/RedstoneNotPlaced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
