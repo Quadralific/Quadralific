@@ -1,5 +1,5 @@
 # Hello There!!! 👋
-I'm QuadraBoy, a 16-year-old Filipino programmer who loves to program and discover the unknown. 
+I'm Quadralific, a 16-year-old Filipino programmer who loves to program and discover the unknown. 
 
 ---
 
