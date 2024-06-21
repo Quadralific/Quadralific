@@ -25,6 +25,6 @@ I'm Quadralific, a 16-year-old Filipino programmer who loves to program and disc
 
 # 📊 Statistics
 
-[![QuadraBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadraBoy&theme=radical)](https://github.com/QuadraBoy?tab=repositories)
+[![Quadralific's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quadralific&theme=radical)](https://github.com/Quadralific?tab=repositories)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadraBoy&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadralific&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
