@@ -1,5 +1,5 @@
 # Hello There!!! 👋
-I'm Arik Jehan Mendoza, a 16-year-old Filipino programmer and a student who loves to program and discover the unknown. I'm currently interesed in writing mathematical research papers during my free time (taking an indefinite break from programming).
+I'm Arik Jehan Mendoza, a 17-year-old Filipino programmer and a student who loves to program and discover the unknown. I'm currently interesed in writing mathematical research papers during my free time (taking an indefinite break from programming).
 
 ---
 
