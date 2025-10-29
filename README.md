@@ -1,30 +1,37 @@
-# Hello There!!! 👋
-I'm Arik Jehan Mendoza, a 17-year-old Filipino programmer and a student who loves to program and discover the unknown. I'm currently interesed in writing mathematical research papers during my free time (taking an indefinite break from programming).
+<div align="center">
+
+# 👋 Hello There!
+
+### I'm **Arik Jehan Mendoza**  
+A 17-year-old Filipino programmer and student who loves to code, explore, and discover the unknown. I’m deeply interested in embedded programming, electronics (from soldering to circuit design), and the fascinating world of combinatorics. Lately, I’ve been diving into mathematical research writing during my free time.
 
 ---
 
 ### 🧰 Languages I Use
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<br />
-<br />
-
-### 🔧 Tools I Use
-
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-
-<br />
+[![Languages I Use!](https://skillicons.dev/icons?i=rust,c,cpp,cs,kotlin,java,html,css,js&perline=3)](https://skillicons.dev)
 
 ---
 
-# 📊 Statistics
+### 🔧 Tools I Use
 
-[![Quadralific's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quadralific&theme=radical)](https://github.com/Quadralific?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)](https://skillicons.dev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadralific&theme=radical)](https://en.wikipedia.org/wiki/Programming_language)
+---
+
+### 📊 GitHub Statistics
+
+<a href="https://github.com/Quadralific?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quadralific&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Quadralific's GitHub Stats" height="165px"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Programming_language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadralific&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165px"/>
+</a>
+
+---
+
+### 💡 Quote I Live By
+> *“The important thing is not to stop questioning. Curiosity has its own reason for existing.”*  
+> — Albert Einstein  
+
+</div>
