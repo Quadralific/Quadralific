@@ -2,7 +2,7 @@
 
 # 👋 Hello There!
 
-### I'm **Arik Jehan Mendoza**  
+### I'm **Arik Jehan Mendoza** 👦
 A 17-year-old Filipino programmer and student who loves to code, explore, and discover the unknown. I’m deeply interested in embedded programming, electronics (from soldering to circuit design), and the fascinating world of combinatorics. Lately, I’ve been diving into mathematical research writing during my free time.
 
 ---
@@ -16,6 +16,12 @@ A 17-year-old Filipino programmer and student who loves to code, explore, and di
 ### 🔧 Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)](https://skillicons.dev)
+
+---
+
+### 💻 Operating Systems I Use (I Use Arch btw)
+
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,ubuntu)](https://skillicons.dev)
 
 ---
 
