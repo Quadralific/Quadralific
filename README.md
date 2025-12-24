@@ -3,7 +3,7 @@
 # 👋 Hello There!
 
 ### I'm **Arik Jehan Mendoza** 👦
-A 17-year-old Filipino programmer and student who loves to code, explore, and discover the unknown. I’m deeply interested in embedded programming, electronics (from soldering to circuit design), and the fascinating world of combinatorics. Lately, I’ve been diving into mathematical research writing during my free time.
+A 17-year-old Filipino programmer and student who loves to code, explore, and discover the unknown. I’m deeply interested in embedded programming, electronics (from soldering to circuit design), and the fascinating world of combinatorics. Currently, I'm enrolled in Harvard's CS50x and will try to complete it.
 
 ---
 
